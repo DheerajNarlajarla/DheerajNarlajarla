@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DheerajNarlajarla
 - 👀 I’m interested in Analytical AI Models that implement multiple methods to be Inferential Data Models
-- 🌱 I’m currently learning the fascinating correlations between Evolutionary Intelligence and Artificial Intelligence
+- 🌱 I’m currently hypothesizing the fascinating covariance between Evolutionary Intelligence and Artificial Intelligence
 - 💞️ I’m looking to collaborate on Dynamic Models involving Game Theory
 - 📫 How to reach me dheerajnarlajarla@gmail.com
 - 😄 Pronouns: ...
