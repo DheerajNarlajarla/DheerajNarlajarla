@@ -6,7 +6,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Facts and Fun often contradict each other because facts often are brutal and ruthless
 
-- 
 
 <!---
 DheerajNarlajarla/DheerajNarlajarla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
